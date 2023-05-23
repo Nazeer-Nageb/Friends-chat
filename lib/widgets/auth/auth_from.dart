@@ -77,7 +77,7 @@ class _AuthformState extends State<Authform> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const SizedBox(
-                height: 140,
+                height: 150,
               ),
               const Center(
                   child: Text(
